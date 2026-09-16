@@ -1,0 +1,22 @@
+census_local_area,crime_type,incidents_2015,incidents_2025,net_change,pct_of_neighbourhood_net_change,driver_rank
+Renfrew-Collingwood,Other Theft,606,1501,895,276.2,1
+Renfrew-Collingwood,Vehicle Collision or Pedestrian Struck (with Fatality),1,1,0,0.0,2
+Renfrew-Collingwood,Homicide,2,1,-1,-0.3,3
+Renfrew-Collingwood,Offence Against a Person,150,140,-10,-3.1,4
+Renfrew-Collingwood,Break and Enter Commercial,74,58,-16,-4.9,5
+Renfrew-Collingwood,Vehicle Collision or Pedestrian Struck (with Injury),110,87,-23,-7.1,6
+Renfrew-Collingwood,Mischief,207,181,-26,-8.0,7
+Renfrew-Collingwood,Theft of Bicycle,47,13,-34,-10.5,8
+Renfrew-Collingwood,Theft of Vehicle,94,49,-45,-13.9,9
+Renfrew-Collingwood,Break and Enter Residential/Other,212,58,-154,-47.5,10
+Renfrew-Collingwood,Theft from Vehicle,472,210,-262,-80.9,11
+Sunset,Other Theft,260,629,369,225.0,1
+Sunset,Mischief,125,145,20,12.2,2
+Sunset,Vehicle Collision or Pedestrian Struck (with Fatality),2,3,1,0.6,3
+Sunset,Vehicle Collision or Pedestrian Struck (with Injury),81,82,1,0.6,3
+Sunset,Break and Enter Commercial,39,36,-3,-1.8,5
+Sunset,Theft of Bicycle,32,16,-16,-9.8,6
+Sunset,Offence Against a Person,100,82,-18,-11.0,7
+Sunset,Theft of Vehicle,70,28,-42,-25.6,8
+Sunset,Break and Enter Residential/Other,91,37,-54,-32.9,9
+Sunset,Theft from Vehicle,247,153,-94,-57.3,10

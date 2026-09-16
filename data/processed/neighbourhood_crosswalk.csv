@@ -1,0 +1,25 @@
+vpd_neighbourhood,census_local_area,notes
+Arbutus Ridge,Arbutus-Ridge,Direct match (hyphenation differs)
+Central Business District,Downtown,VPD's policing area name for the downtown core; census calls the same area "Downtown"
+Dunbar-Southlands,Dunbar-Southlands,Direct match
+Fairview,Fairview,Direct match
+Grandview-Woodland,Grandview-Woodland,Direct match
+Hastings-Sunrise,Hastings-Sunrise,Direct match
+Kensington-Cedar Cottage,Kensington-Cedar Cottage,Direct match
+Kerrisdale,Kerrisdale,Direct match
+Killarney,Killarney,Direct match
+Kitsilano,Kitsilano,Direct match
+Marpole,Marpole,Direct match
+Mount Pleasant,Mount Pleasant,Direct match
+Musqueam,,No separate census population figure; Musqueam Indian Reserve is not broken out in the City's 22-local-area profile (folded into the boundary near Dunbar-Southlands/Marpole). Excluded from per-capita analysis.
+Oakridge,Oakridge,Direct match
+Renfrew-Collingwood,Renfrew-Collingwood,Direct match
+Riley Park,Riley Park,Direct match
+Shaughnessy,Shaughnessy,Direct match
+South Cambie,South Cambie,Direct match
+Stanley Park,,Public park with no residential population; excluded from per-capita analysis
+Strathcona,Strathcona,Direct match
+Sunset,Sunset,Direct match
+Victoria-Fraserview,Victoria-Fraserview,Direct match
+West End,West End,Direct match
+West Point Grey,West Point Grey,Direct match

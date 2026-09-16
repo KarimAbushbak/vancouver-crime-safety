@@ -1,0 +1,4 @@
+data/raw/crimedata_csv_AllNeighbourhoods_AllYears.csv
+__pycache__/
+*.pyc
+.DS_Store
