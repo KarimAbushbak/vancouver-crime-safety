@@ -114,6 +114,16 @@ BI. See `docs/power_bi_guide.md` for the step-by-step build (line chart of
 per-capita rate by neighbourhood with Renfrew-Collingwood/Sunset highlighted,
 plus a crime-type breakdown visual with a filter action).
 
+## Cloud pipeline (Azure)
+
+A separate, automated ingestion path for this same dataset: Azure Data
+Factory orchestrates a weekly pull from VPD's GeoDASH source into Data Lake
+Storage, Azure Databricks transforms it into a curated Delta table, and Power
+BI connects to that table directly via the Databricks connector — no manual
+CSV re-export required to keep the dashboard current. See
+`docs/azure_pipeline.md` for the full architecture, pipeline steps, and
+setup notes/gotchas.
+
 ## Setup
 
 ```
